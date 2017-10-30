@@ -1,0 +1,49 @@
+<table class="table table-sm">
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+                {% for c in s2 %}
+                    <th>
+                        {{ c }}</li>
+                    </th>
+                {% endfor %}
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+                {% for i in range(0, s2|length + 1) %}
+                    <th>
+                        {{ i }}
+                    </th>
+                {% endfor %}
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <th>0</th>
+            {% for score in matrix[0] %}
+                <td>
+                    {{ score[0] }}
+                </td>
+            {% endfor %}
+        </tr>
+        {% for c in s1 %}
+            <tr>
+                <th>
+                    {{ c }}
+                </th>
+                <th>
+                    {{ loop.index }}
+                </th>
+                {% for score in matrix[loop.index] %}
+                    <td>
+                        {{ score[0] }}
+                    </td>
+                {% endfor %}
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
