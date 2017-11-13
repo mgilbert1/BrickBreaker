@@ -1,0 +1,115 @@
+***
+Full Name (as it should appear on name tags)
+***
+
+     Matthew Gilbert
+
+***
+Email
+***
+
+     mgilbert@college.harvard.edu
+
+***
+In which course are you enrolled?
+***
+
+     COMPSCI 50 at Harvard
+
+***
+If you plan to collaborate with 1 or 2 classmates for the final project, provided their Harvard or Yale email addresses here (or the addresses with which they registered for the course).  Be sure they're correct! - First collaborator's email address, if any
+***
+
+     BLANK
+
+***
+If you plan to collaborate with 1 or 2 classmates for the final project, provided their Harvard or Yale email addresses here (or the addresses with which they registered for the course).  Be sure they're correct! - Second collaborator's email address, if any
+***
+
+     BLANK
+
+***
+Under which "track" does your project fall, per the spec? - Selected Choice
+***
+
+     Cross-Course Track
+
+***
+Under which "track" does your project fall, per the spec? - Other: - Text
+***
+
+     BLANK
+
+***
+With which other course are you proposing to combine final projects, and which aspect(s) of your proposed project would relate to CS50, and which aspect(s) would relate to the other course?
+***
+
+     BLANK
+
+***
+Into which categories does your project fall?
+***
+
+     Game,iOS App
+
+***
+Which language(s) will you use for your project?
+***
+
+     Swift
+
+***
+What will (likely) be the title of your project?
+***
+
+     Brick Breaker
+
+***
+In just a sentence or two, summarize your project.  (E.g., "A website that lets you buy and sell stocks.")
+***
+
+     An iOS app that lets you play brick breaker 
+
+***
+So that everyone can delight in each other's choice of projects, we may post everyone's name, title, summary, and type of project / language(s) on the course's website. If you would like to be excluded from that list, though, you may opt out.
+***
+
+     I'd like to opt out. Please do not mention me or my project on the course's website.
+
+***
+Where will your project ultimately live? - Selected Choice
+***
+
+     on my own computer
+
+***
+Where will your project ultimately live? - other - Text
+***
+
+     BLANK
+
+***
+In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+***
+
+     I plan on writing Swift in Xcode and using the iOS developer tools to create an iPhone app. Currently I plan on making a brick breaker game, but I might create my own (relatively simple) game instead if inspiration strikes. 
+
+***
+In the world of software, most everything takes longer to implement than you expect.  And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+In a sentence (or list of features), define a GOOD outcome for your final project.  I.e., what WILL you accomplish no matter what?
+***
+
+     I will implement an iPhone app and code some sort of simple game. 
+
+***
+In a sentence (or list of features), define a BETTER outcome for your final project.  I.e., what do you THINK you can accomplish before the final project's deadline?
+***
+
+     I think that I can create a game of my own that will be somewhat more complicated than brick breaker and which will have menus and decent graphics 
+
+***
+In a sentence (or list of features), define a BEST outcome for your final project.  I.e., what do you HOPE to accomplish before the final project's deadline?
+***
+
+     I would hope to find a way to store, update, and access all-time high scores in the app
+
